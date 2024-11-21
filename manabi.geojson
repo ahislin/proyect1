@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "manabi",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Portoviejo", "type": "Capital Provincial" }, "geometry": { "type": "Point", "coordinates": [ -80.4525, -0.9453 ] } },
+{ "type": "Feature", "properties": { "name": "Manta", "type": "Ciudad Costera" }, "geometry": { "type": "Point", "coordinates": [ -80.3923, -1.0503 ] } },
+{ "type": "Feature", "properties": { "name": "Bahía de Caráquez", "type": "Ciudad Costera" }, "geometry": { "type": "Point", "coordinates": [ -80.1106, -0.6089 ] } }
+]
+}
